@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<students>
+    <student id="101">
+        <name>Ramesh</name>
+        <branch>ECE</branch>
+    </student>
+
+    <student id="102">
+        <name>Anil</name>
+        <branch>IT</branch>
+    </student>
+<student id="103">
+    <name>Suresh</name>
+    <branch>ME</branch>
+</student>
+<student id="103"><name>Suresh</name><branch>ME</branch></student></students>
