@@ -112,6 +112,8 @@ class Manager(Employee):
         super().__init__(name, emp_id)
         self.department = department
 
+m1 = Manager("Dhanu",123456,"IT")
+print(m1.name, m1.emp_id, m1.department)
 # Method Overriding with super()
 class Animal:
     def sound(self):
